@@ -1,4 +1,5 @@
 Code Book
+
 This code book summarizes the resulting data fields in 'TidyData.txt'
 
 Identifiers -
